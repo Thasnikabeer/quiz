@@ -1,0 +1,11 @@
+ [
+    { "key": "choices", "label": "Answer Choices" },
+    { "key": "imageChoices", "label": "Choices with Images" },
+    { "key": "input", "label": "Input Field" },
+    { "key": "emojis", "label": "Emojis" },
+    { "key": "dropdownlist", "label": "Drop-down List" },
+    { "key": "date", "label": "Date" },
+    { "key": "file", "label": "File Upload" },
+    { "key": "rating", "label": "Rating" }  
+    
+  ]
