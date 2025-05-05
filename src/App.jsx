@@ -1,18 +1,11 @@
-import { useState } from 'react'
-import './App.css'
-import StartPage from './components/StartPage'
-import QuestionBuilder from './components/QuestionBuilder'
+import React from 'react';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <StartPage/>
-     < QuestionBuilder/>
-       
-    </>
-  )
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+      <p>Start prompting (or editing) to see magic happen :)</p>
+    </div>
+  );
 }
 
-export default App
+export default App;
